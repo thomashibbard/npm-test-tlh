@@ -1,0 +1,15 @@
+{
+  "name": "npm-test-tlh",
+  "version": "1.0.0",
+  "description": "test for global package creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Hibbard <loren.hibbard@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "path": "^0.12.7"
+  }
+}
